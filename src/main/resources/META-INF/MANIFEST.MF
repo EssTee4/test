@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringHibernateProject
+Implementation-Version: 1.0.0
+Built-By: John Doe
